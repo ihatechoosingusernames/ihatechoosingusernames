@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ihatechoosingusernames
+- 👀 I’m interested in embedded programming in C++.
+- 📫 How to reach me: post an issue in this repo.
